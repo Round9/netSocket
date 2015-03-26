@@ -1,4 +1,3 @@
-ounter = 0;
 // Emitter
 var events = require('events');
 var channel = new events.EventEmitter();
