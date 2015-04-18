@@ -1,2 +1,1 @@
-# netSocket
 use telnet client
